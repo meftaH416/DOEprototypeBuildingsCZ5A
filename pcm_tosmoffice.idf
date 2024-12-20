@@ -7280,8 +7280,8 @@ Material,
 PCMBoard,                !- Name
 Smooth,                  !- Roughness
 0.01905,                      !- Thickness {m}
-0.7264224,                      !- Conductivity {W/m-K}
-1601.846,                      !- Density {kg/m3}
+0.7264224,                    !- Conductivity {W/m-K}
+1601.846,                     !- Density {kg/m3}
 836.8,                      !- Specific Heat {J/kg-K}
 0.9000000,               !- Thermal Absorptance
 0.9200000,               !- Solar Absorptance
